@@ -1,0 +1,254 @@
+[27-Sep-2025 09:03:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class "Route" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php on line 3
+[27-Sep-2025 09:03:36 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Route' has no effect in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php on line 3
+[27-Sep-2025 09:03:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class "Route" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php on line 5
+[27-Sep-2025 09:04:01 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Route' has no effect in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php on line 6
+[27-Sep-2025 09:04:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class "Route" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php on line 8
+[27-Sep-2025 09:04:02 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Route' has no effect in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php on line 6
+[27-Sep-2025 09:04:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class "Route" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php on line 8
+[27-Sep-2025 09:04:02 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Route' has no effect in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php on line 6
+[27-Sep-2025 09:04:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class "Route" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php on line 8
+[27-Sep-2025 09:37:02 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:39:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:16
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#1 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 16
+[27-Sep-2025 09:40:53 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:40:54 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:40:54 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:40:55 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:40:55 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:40:55 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:40:56 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:40:56 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:40:57 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:40:57 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:40:58 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:40:59 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:40:59 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:41:00 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:41:00 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:41:00 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:41:00 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:41:01 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:41:01 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:41:01 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:41:01 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:41:02 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:41:02 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:41:02 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:41:02 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:41:03 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:41:03 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:41:03 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:43:13 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:43:14 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:43:14 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:18
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(18): call_user_func()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#2 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 18
+[27-Sep-2025 09:45:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:21
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#1 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 21
+[27-Sep-2025 09:48:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:21
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#1 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 21
+[27-Sep-2025 09:48:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:21
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#1 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 21
+[27-Sep-2025 09:48:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:21
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#1 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 21
+[27-Sep-2025 09:48:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class "App\Controller\UserController\UserController" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php:21
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#1 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php on line 21
+[27-Sep-2025 09:48:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class "Controller" not found in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Controller\UserController.php:8
+Stack trace:
+#0 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\vendor\composer\ClassLoader.php(576): include()
+#1 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\vendor\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Core\Route.php(21): Composer\Autoload\ClassLoader->loadClass()
+#3 C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\public\index.php(8): App\Core\Route::get()
+#4 {main}
+  thrown in C:\Users\samue\OneDrive\Área de Trabalho\Sam-PHP\App\Controller\UserController.php on line 8
